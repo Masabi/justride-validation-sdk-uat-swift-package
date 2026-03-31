@@ -1,0 +1,1 @@
+# justride-validation-sdk-uat-swift-package
